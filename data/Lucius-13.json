@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "Lucius",
+  "address": "0x5dC36821bA68D5C3E2d7Ddfd9daDA782A45EDB8E",
+  "risk": "2",
+  "title": "Unchecked token transfers",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/13"
+}
