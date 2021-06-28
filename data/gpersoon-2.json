@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "Claim liquidation escrow",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/2"
+}
