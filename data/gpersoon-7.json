@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "rug pull possible via SafetyWithdraw ",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/7"
+}
