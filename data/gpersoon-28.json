@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "transferOwnership check for address(0)",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/28"
+}
