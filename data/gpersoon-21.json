@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "calculateTWAP  doesn't calculate oraclePrices when no trades are done in the last 8 hours",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/21"
+}
