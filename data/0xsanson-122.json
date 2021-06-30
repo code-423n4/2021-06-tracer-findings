@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "0xsanson",
+  "address": "0x4DF37CC3C48eC3EB689c8Bf0D91249cE2506f73B",
+  "risk": "0",
+  "title": "State variable not used",
+  "issueId": 122,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/122"
+}
