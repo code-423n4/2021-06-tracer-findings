@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Lack of nonreentrant modifier or CEI pattern may lead to reentrancy ",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/72"
+}
