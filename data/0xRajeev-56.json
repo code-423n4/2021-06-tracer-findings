@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Deposit event should use the converted WAD amount",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/56"
+}
