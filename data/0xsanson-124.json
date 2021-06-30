@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "0xsanson",
+  "address": "0x4DF37CC3C48eC3EB689c8Bf0D91249cE2506f73B",
+  "risk": "1",
+  "title": "Comparison between Raw token amount and WAD",
+  "issueId": 124,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/124"
+}
