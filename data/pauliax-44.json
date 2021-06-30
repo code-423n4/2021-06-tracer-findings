@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "0",
+  "title": "cover the case of block.timestamp = receipt.releaseTime",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/44"
+}
