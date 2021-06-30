@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "0",
+  "title": "Market creator can steal user funds by setting fess >= 100%",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/103"
+}
