@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "s1m0",
+  "address": "0x7d379c4d48FB5bff0FDcb3efE14F7864aD46Dc10",
+  "risk": "1",
+  "title": "EIP-712 ChainId hardcoded",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/114"
+}
