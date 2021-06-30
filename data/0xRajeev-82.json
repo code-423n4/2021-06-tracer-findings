@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Malicious owner can drain Insurance Pool at any time by minting InsurancePool tokens",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/82"
+}
