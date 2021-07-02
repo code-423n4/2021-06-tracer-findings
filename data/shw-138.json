@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "1",
+  "title": "Two tracer markets can have the same market ID",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/138"
+}
