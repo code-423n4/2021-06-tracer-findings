@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "1",
+  "title": "The `transferOwnership` function of `Liquidation` lacks a non-zero address check",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/136"
+}
