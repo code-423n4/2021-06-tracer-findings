@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "2",
+  "title": "Using deprecated Chainlink function `latestAnswer`",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/145"
+}
