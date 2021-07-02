@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "2",
+  "title": "A market's hourly average price can be biased by a large number of trades",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2021-06-tracer-findings/issues/144"
+}
